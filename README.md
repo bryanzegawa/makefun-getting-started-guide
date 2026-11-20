@@ -1,8 +1,8 @@
 # Getting Started with make.fun — a Beginner's Guide
 
-[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/axiompro4/makefun-getting-started-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/axiompro4/makefun-getting-started-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/bryanzegawa/makefun-getting-started-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/bryanzegawa/makefun-getting-started-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
 > **New here?** If you don't have an account yet, [sign up with my referral link](https://make.fun/r/xxhgjprc) — it takes a minute, and this guide walks you through everything that comes after.
 
